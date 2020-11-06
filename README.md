@@ -1,2 +1,2 @@
 # todo-app-elm
-Simple todo app on Elm
+Simple todo app with Elm
